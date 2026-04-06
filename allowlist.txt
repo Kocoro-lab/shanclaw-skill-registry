@@ -1,0 +1,16 @@
+# ShanClaw Skill Registry — allowlist
+#
+# One skill per line, in `author/slug` form matching the ClawHub URL path
+# (https://clawhub.ai/<author>/<slug>). Lines starting with `#` are comments.
+# Blank lines are ignored.
+#
+# Adding a slug here is the ONLY way a skill can appear in the ShanClaw
+# marketplace. The scraper runs daily against this file and builds index.json.
+# A removal here drops the entry from the catalog on the next scraper run
+# (~1 hour to propagate after the daemon cache TTL).
+#
+# Security policy: only add slugs you have personally reviewed. Each entry
+# becomes part of the one-click install surface, which can land arbitrary
+# scripts and helper files into a user's ~/.shannon/skills/.
+
+oswalpalash/ontology

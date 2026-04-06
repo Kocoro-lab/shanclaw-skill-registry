@@ -1,0 +1,60 @@
+name: Scrape ClawHub
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "allowlist.txt"
+      - "scripts/scrape.py"
+      - "scripts/requirements.txt"
+      - ".github/workflows/scrape.yml"
+  schedule:
+    # Daily at 04:00 UTC (20:00 PT previous day / 12:00 CST same day).
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+# Single-runner serialization so a manual dispatch during a scheduled run
+# doesn't race on index.json commits.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run scraper
+        run: python scripts/scrape.py
+
+      - name: Commit index.json if changed
+        env:
+          GH_ACTOR: ${{ github.actor }}
+        run: |
+          if git diff --quiet index.json; then
+            echo "index.json unchanged; no commit."
+            exit 0
+          fi
+          git config user.name "shanclaw-skill-registry-bot"
+          git config user.email "shanclaw-skill-registry-bot@users.noreply.github.com"
+          git add index.json
+          git commit -m "chore: refresh index.json (triggered by $GH_ACTOR)"
+          git push
