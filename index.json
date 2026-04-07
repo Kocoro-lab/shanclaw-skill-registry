@@ -2,6 +2,182 @@
   "version": 1,
   "skills": [
     {
+      "slug": "accounting",
+      "name": "accounting",
+      "description": "Support accounting understanding from basic bookkeeping to professional practice and research.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=accounting",
+      "homepage": "https://clawhub.ai/ivangdavila/accounting",
+      "downloads": 2000,
+      "stars": 5,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "code-review",
+      "name": "code-review",
+      "description": "Systematic code review patterns covering security, performance, maintainability, correctness, and testing — with severity levels, structured feedback guidance, review process, and anti-patterns to av…",
+      "author": "wpank",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=code-review",
+      "homepage": "https://clawhub.ai/wpank/code-review",
+      "downloads": 10500,
+      "stars": 9,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "css",
+      "name": "css",
+      "description": "Avoid common CSS pitfalls — stacking context, layout quirks, and underused modern features.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=css",
+      "homepage": "https://clawhub.ai/ivangdavila/css",
+      "downloads": 1600,
+      "stars": 5,
+      "version": "1.0.1",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "docker",
+      "name": "docker",
+      "description": "Docker containers, images, Compose stacks, networking, volumes, debugging, production hardening, and the commands that keep real environments stable. Use whe...",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=docker",
+      "homepage": "https://clawhub.ai/ivangdavila/docker",
+      "downloads": 9600,
+      "stars": 20,
+      "version": "1.0.4",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "fastapi",
+      "name": "fastapi",
+      "description": "Build fast, production-ready Python APIs with type hints, validation, and async support.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=fastapi",
+      "homepage": "https://clawhub.ai/ivangdavila/fastapi",
+      "downloads": 2000,
+      "stars": 4,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "git-helper",
+      "name": "git-helper",
+      "description": "Common git operations as a skill (status, pull, push, branch, log)",
+      "author": "xejrax",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=git-helper",
+      "homepage": "https://clawhub.ai/xejrax/git-helper",
+      "downloads": 4800,
+      "stars": 1,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "image-gen",
+      "name": "image-gen",
+      "description": "Generate images using multiple AI models — Midjourney (via Legnext.ai), Flux, Nano Banana Pro (Gemini), Ideogram, Recraft, and more via fal.ai. Intelligently...",
+      "author": "wells1137",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=image-gen",
+      "homepage": "https://clawhub.ai/wells1137/image-gen",
+      "downloads": 2900,
+      "stars": 4,
+      "version": "2.0.1",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "java",
+      "name": "java",
+      "description": "Write robust Java avoiding null traps, equality bugs, and concurrency pitfalls.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=java",
+      "homepage": "https://clawhub.ai/ivangdavila/java",
+      "downloads": 2200,
+      "stars": 9,
+      "version": "1.0.1",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "linux",
+      "name": "linux",
+      "description": "Operate Linux systems avoiding permission traps, silent failures, and common admin mistakes.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=linux",
+      "homepage": "https://clawhub.ai/ivangdavila/linux",
+      "downloads": 2600,
+      "stars": 5,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "markdown",
+      "name": "markdown",
+      "description": "Generate clean, portable Markdown that renders correctly across parsers.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=markdown",
+      "homepage": "https://clawhub.ai/ivangdavila/markdown",
+      "downloads": 2900,
+      "stars": 5,
+      "version": "1.0.1",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "nextjs",
+      "name": "nextjs",
+      "description": "Build Next.js 15 apps with App Router, server components, caching, auth, and production patterns.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=nextjs",
+      "homepage": "https://clawhub.ai/ivangdavila/nextjs",
+      "downloads": 2700,
+      "stars": 4,
+      "version": "1.1.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
       "slug": "ontology",
       "name": "ontology",
       "description": "Typed knowledge graph for structured agent memory and composable skills. Use when creating/querying entities (Person, Project, Task, Event, Document), linkin...",
@@ -9,9 +185,73 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=ontology",
       "homepage": "https://clawhub.ai/oswalpalash/ontology",
-      "downloads": 153000,
-      "stars": 484,
+      "downloads": 154000,
+      "stars": 487,
       "version": "1.0.4",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "python",
+      "name": "python",
+      "description": "Python coding guidelines and best practices. Use when writing, reviewing, or refactoring Python code. Enforces PEP 8 style, syntax validation via py_compile, unit test execution, modern Python versio…",
+      "author": "adarshdigievo",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=python",
+      "homepage": "https://clawhub.ai/adarshdigievo/python",
+      "downloads": 8100,
+      "stars": 7,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "shell",
+      "name": "shell",
+      "description": "Shell scripting reference — Bash syntax, redirections, process substitution, signal handling, debugging techniques. Use when writing shell scripts, troublesh...",
+      "author": "xueyetianya",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=shell",
+      "homepage": "https://clawhub.ai/xueyetianya/shell",
+      "downloads": 2300,
+      "stars": 1,
+      "version": "1.0.0",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "vue",
+      "name": "vue",
+      "description": "Avoid common Vue mistakes — reactivity traps, ref vs reactive, computed timing, and Composition API pitfalls.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=vue",
+      "homepage": "https://clawhub.ai/ivangdavila/vue",
+      "downloads": 2100,
+      "stars": 6,
+      "version": "1.0.1",
+      "security": {
+        "virustotal": "benign",
+        "openclaw": "benign"
+      }
+    },
+    {
+      "slug": "writing",
+      "name": "writing",
+      "description": "Adapt to writing voice, improve clarity, and remember style preferences across sessions.",
+      "author": "ivangdavila",
+      "license": "MIT-0",
+      "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=writing",
+      "homepage": "https://clawhub.ai/ivangdavila/writing",
+      "downloads": 4900,
+      "stars": 6,
+      "version": "1.1.0",
       "security": {
         "virustotal": "benign",
         "openclaw": "benign"

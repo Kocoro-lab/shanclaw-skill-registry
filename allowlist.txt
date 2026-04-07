@@ -13,4 +13,19 @@
 # becomes part of the one-click install surface, which can land arbitrary
 # scripts and helper files into a user's ~/.shannon/skills/.
 
+adarshdigievo/python
+ivangdavila/accounting
+ivangdavila/css
+ivangdavila/docker
+ivangdavila/fastapi
+ivangdavila/java
+ivangdavila/linux
+ivangdavila/markdown
+ivangdavila/nextjs
+ivangdavila/vue
+ivangdavila/writing
 oswalpalash/ontology
+wells1137/image-gen
+wpank/code-review
+xejrax/git-helper
+xueyetianya/shell
