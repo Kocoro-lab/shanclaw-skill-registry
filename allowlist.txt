@@ -14,7 +14,16 @@
 # scripts and helper files into a user's ~/.shannon/skills/.
 
 adarshdigievo/python
+arnarsson/docker-essentials
+arnarsson/ripgrep
+artyomx33/jtbd-analyzer
+arun-8687/linkedin-cli
+brokemac79/webchat-audio-notifications
+dbalve/fast-io
+edwininau/explain-code
+gchapim/hackernews
 ivangdavila/accounting
+ivangdavila/code
 ivangdavila/css
 ivangdavila/docker
 ivangdavila/fastapi
@@ -24,8 +33,27 @@ ivangdavila/markdown
 ivangdavila/nextjs
 ivangdavila/vue
 ivangdavila/writing
+jamestsetsekas/lnbits-with-qrcode
+jx-76/jx76-gog
+k0nkupa/asana
+kevin37li/mlx-whisper
+kirorab/12306
+krisyejh/wan-image-video-generation-editting
+kyjus25/clawdbot-jira-skill
+lobstergeneralintelligence/x-api
+mvanhorn/search-x
+mvanhorn/xai
 oswalpalash/ontology
+ryanchen01/mcd-cn
+safatinaztepe/knowledge-graph
+shawnyeager/nostr-social
+tarigha/financial-calculator
+voidcooks/clawd-presence
 wells1137/image-gen
 wpank/code-review
+wscats/qq-zone-photo
+wuchubuzai2018/toutiao-news-trends
+wwlyzzyorg/ppt-generator
 xejrax/git-helper
+xmznini/xiaohongshu-mcp-skills
 xueyetianya/shell
