@@ -9,7 +9,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=12306",
       "homepage": "https://clawhub.ai/kirorab/12306",
-      "downloads": 2200,
+      "downloads": 2300,
       "stars": 6,
       "version": "1.0.2",
       "security": {
@@ -89,7 +89,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=code",
       "homepage": "https://clawhub.ai/ivangdavila/code",
-      "downloads": 20500,
+      "downloads": 20700,
       "stars": 38,
       "version": "1.0.4",
       "security": {
@@ -105,7 +105,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=code-review",
       "homepage": "https://clawhub.ai/wpank/code-review",
-      "downloads": 11300,
+      "downloads": 11400,
       "stars": 11,
       "version": "1.0.0",
       "security": {
@@ -153,7 +153,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=docker-essentials",
       "homepage": "https://clawhub.ai/arnarsson/docker-essentials",
-      "downloads": 27000,
+      "downloads": 27200,
       "stars": 29,
       "version": "1.0.0",
       "security": {
@@ -169,7 +169,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=explain-code",
       "homepage": "https://clawhub.ai/edwininau/explain-code",
-      "downloads": 6000,
+      "downloads": 6100,
       "stars": 5,
       "version": "1.0.0",
       "security": {
@@ -185,9 +185,9 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=fast-io",
       "homepage": "https://clawhub.ai/dbalve/fast-io",
-      "downloads": 5000,
+      "downloads": 5100,
       "stars": 4,
-      "version": "1.162.0",
+      "version": "1.165.0",
       "security": {
         "virustotal": "benign",
         "openclaw": "benign"
@@ -313,7 +313,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=jx76-gog",
       "homepage": "https://clawhub.ai/jx-76/jx76-gog",
-      "downloads": 6000,
+      "downloads": 6200,
       "stars": 7,
       "version": "1.0.1",
       "security": {
@@ -345,7 +345,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=linkedin-cli",
       "homepage": "https://clawhub.ai/arun-8687/linkedin-cli",
-      "downloads": 5400,
+      "downloads": 5500,
       "stars": 14,
       "version": "1.0.0",
       "security": {
@@ -393,7 +393,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=markdown",
       "homepage": "https://clawhub.ai/ivangdavila/markdown",
-      "downloads": 3100,
+      "downloads": 3200,
       "stars": 5,
       "version": "1.0.1",
       "security": {
@@ -474,7 +474,7 @@
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=ontology",
       "homepage": "https://clawhub.ai/oswalpalash/ontology",
       "downloads": 164000,
-      "stars": 527,
+      "stars": 534,
       "version": "1.0.4",
       "security": {
         "virustotal": "benign",
@@ -489,8 +489,8 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=ppt-generator",
       "homepage": "https://clawhub.ai/wwlyzzyorg/ppt-generator",
-      "downloads": 26100,
-      "stars": 68,
+      "downloads": 26400,
+      "stars": 69,
       "version": "1.0.0",
       "security": {
         "virustotal": "benign",
@@ -521,7 +521,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=qq-zone-photo",
       "homepage": "https://clawhub.ai/wscats/qq-zone-photo",
-      "downloads": 11100,
+      "downloads": 11500,
       "stars": 3,
       "version": "1.0.3",
       "security": {
@@ -553,7 +553,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=search-x",
       "homepage": "https://clawhub.ai/mvanhorn/search-x",
-      "downloads": 5900,
+      "downloads": 6000,
       "stars": 26,
       "version": "1.2.1",
       "security": {
@@ -617,8 +617,8 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=wan-image-video-generation-editting",
       "homepage": "https://clawhub.ai/krisyejh/wan-image-video-generation-editting",
-      "downloads": 3500,
-      "stars": 7,
+      "downloads": 3600,
+      "stars": 8,
       "version": "1.0.2",
       "security": {
         "virustotal": "benign",
@@ -649,7 +649,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=writing",
       "homepage": "https://clawhub.ai/ivangdavila/writing",
-      "downloads": 5000,
+      "downloads": 5100,
       "stars": 6,
       "version": "1.1.0",
       "security": {
@@ -697,7 +697,7 @@
       "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=xiaohongshu-mcp-skills",
       "homepage": "https://clawhub.ai/xmznini/xiaohongshu-mcp-skills",
-      "downloads": 6000,
+      "downloads": 6100,
       "stars": 29,
       "version": "0.1.0",
       "security": {
