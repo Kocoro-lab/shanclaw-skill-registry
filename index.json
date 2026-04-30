@@ -196,14 +196,12 @@
     {
       "slug": "image-gen",
       "name": "image-gen",
-      "description": "Generate images using multiple AI models — Midjourney (via Legnext.ai), Flux, Nano Banana Pro (Gemini), Ideogram, Recraft, and more via fal.ai. Intelligently...",
+      "description": "Agent skill by @wells1137 on ClawHub.",
       "author": "wells1137",
-      "license": "MIT-0",
       "download_url": "https://wry-manatee-359.convex.site/api/v1/download?slug=image-gen",
       "homepage": "https://clawhub.ai/wells1137/image-gen",
-      "downloads": 9,
-      "stars": 0,
-      "version": "2.0.1"
+      "downloads": 0,
+      "stars": 0
     },
     {
       "slug": "java",
